@@ -1,0 +1,6 @@
+1) Predict SMI/SED based on all other data
+2) Connections between substance use, homelessness, education, and various disorders 
+3) Look at change in diagnosis based on treatments used
+4) Change over the 3 reporting periods – compare to if patient used residential care etc.
+5) How are different disorders distributed across different states?
+
